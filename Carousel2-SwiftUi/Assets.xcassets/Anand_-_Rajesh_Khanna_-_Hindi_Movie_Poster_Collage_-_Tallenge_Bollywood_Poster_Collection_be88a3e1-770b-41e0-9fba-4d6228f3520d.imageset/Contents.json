@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Anand_-_Rajesh_Khanna_-_Hindi_Movie_Poster_Collage_-_Tallenge_Bollywood_Poster_Collection_be88a3e1-770b-41e0-9fba-4d6228f3520d.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
